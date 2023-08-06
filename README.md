@@ -1,3 +1,7 @@
+my herbe fork, original README content below.
+
+
+
 # 🌱 herbe
 > Daemon-less notifications without D-Bus. Minimal and lightweight.
 
